@@ -1,0 +1,168 @@
+[
+    {
+        "name": "Pasta",
+        "ingredients": ["pasta", "tomato sauce", "cheese"],
+        "instructions": [
+            "Cook pasta according to package instructions.",
+            "Heat tomato sauce in a pan.",
+            "Mix the cooked pasta with the tomato sauce.",
+            "Top with cheese and serve."
+        ],
+        "meal_type": "Lunch",
+        "prep_time": 20,
+        "is_vegetarian": true,
+        "affordability": 2
+    },
+    {
+        "name": "Chicken Curry",
+        "ingredients": ["chicken", "onion", "garlic", "tomato", "spices"],
+        "instructions": [
+            "Sauté onion and garlic until soft.",
+            "Add chicken pieces and cook until browned.",
+            "Add chopped tomato and spices, cook until tomato softens.",
+            "Add water or broth, simmer until chicken is cooked through."
+        ],
+        "meal_type": "Dinner",
+        "prep_time": 45,
+        "is_vegetarian": false,
+        "affordability": 3
+    },
+    {
+        "name": "Omelette",
+        "ingredients": ["eggs", "salt", "pepper"],
+        "instructions": [
+            "Beat eggs with salt and pepper.",
+            "Heat a pan and pour in the egg mixture.",
+            "Cook until set, then fold and serve."
+        ],
+        "meal_type": "Breakfast",
+        "prep_time": 10,
+        "is_vegetarian": true,
+        "affordability": 1
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "ingredients": ["carrot", "broccoli", "bell pepper", "soy sauce"],
+        "instructions": [
+            "Chop vegetables into bite-sized pieces.",
+            "Stir-fry the vegetables in a pan with soy sauce until tender."
+        ],
+        "meal_type": "Dinner",
+        "prep_time": 15,
+        "is_vegetarian": true,
+        "affordability": 2
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": ["bread", "cheese", "butter"],
+        "instructions": [
+            "Butter one side of each bread slice.",
+            "Place cheese between the slices and grill until golden brown on both sides."
+        ],
+        "meal_type": "Snack",
+        "prep_time": 10,
+        "is_vegetarian": true,
+        "affordability": 1
+    },
+    {
+        "name": "Caesar Salad",
+        "ingredients": ["lettuce", "croutons", "parmesan", "caesar dressing"],
+        "instructions": [
+            "Toss lettuce with Caesar dressing.",
+            "Add croutons and parmesan cheese on top."
+        ],
+        "meal_type": "Lunch",
+        "prep_time": 15,
+        "is_vegetarian": true,
+        "affordability": 2
+    },
+    {
+        "name": "Tomato Soup",
+        "ingredients": ["tomato", "onion", "garlic", "cream"],
+        "instructions": [
+            "Sauté onion and garlic until soft.",
+            "Add chopped tomatoes and cook until soft.",
+            "Blend the mixture, then stir in cream.",
+            "Simmer for a few minutes and serve."
+        ],
+        "meal_type": "Dinner",
+        "prep_time": 30,
+        "is_vegetarian": true,
+        "affordability": 2
+    },
+    {
+        "name": "Scrambled Eggs",
+        "ingredients": ["eggs", "milk", "salt", "butter"],
+        "instructions": [
+            "Whisk eggs with milk, salt, and butter.",
+            "Cook in a pan over low heat, stirring occasionally until cooked through."
+        ],
+        "meal_type": "Breakfast",
+        "prep_time": 10,
+        "is_vegetarian": true,
+        "affordability": 1
+    },
+    {
+        "name": "Chicken Biryani",
+        "ingredients": ["chicken", "rice", "spices", "yogurt"],
+        "instructions": [
+            "Marinate chicken with spices and yogurt.",
+            "Cook rice separately.",
+            "Layer the chicken and rice in a pot and cook until the flavors meld."
+        ],
+        "meal_type": "Dinner",
+        "prep_time": 60,
+        "is_vegetarian": false,
+        "affordability": 3
+    },
+    {
+        "name": "Mashed Potatoes",
+        "ingredients": ["potatoes", "butter", "milk", "salt"],
+        "instructions": [
+            "Boil potatoes until tender.",
+            "Mash the potatoes with butter, milk, and salt."
+        ],
+        "meal_type": "Side Dish",
+        "prep_time": 20,
+        "is_vegetarian": true,
+        "affordability": 2
+    },
+    {
+        "name": "Paneer Butter Masala",
+        "ingredients": ["paneer", "butter", "cream", "tomato", "spices"],
+        "instructions": [
+            "Fry paneer cubes in butter.",
+            "Cook tomato with spices, then blend into a sauce.",
+            "Add cream to the sauce and simmer.",
+            "Add paneer cubes and cook until tender."
+        ],
+        "meal_type": "Dinner",
+        "prep_time": 40,
+        "is_vegetarian": true,
+        "affordability": 3
+    },
+    {
+        "name": "Pancakes",
+        "ingredients": ["flour", "milk", "eggs", "sugar", "butter"],
+        "instructions": [
+            "Mix all ingredients to form a batter.",
+            "Cook on a griddle until golden brown on both sides."
+        ],
+        "meal_type": "Breakfast",
+        "prep_time": 15,
+        "is_vegetarian": true,
+        "affordability": 2
+    },
+    {
+        "name": "Fruit Salad",
+        "ingredients": ["apple", "banana", "orange", "grapes", "yogurt"],
+        "instructions": [
+            "Chop all fruits into bite-sized pieces.",
+            "Toss with yogurt and serve chilled."
+        ],
+        "meal_type": "Dessert",
+        "prep_time": 10,
+        "is_vegetarian": true,
+        "affordability": 2
+    }
+]
